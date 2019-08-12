@@ -15,3 +15,7 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/arrow_z2_row.mk
+
+COMMON_LUNCH_CHOICES := \
+    arrow_z2_row-userdebug \
+    arrow_z2_row-eng
